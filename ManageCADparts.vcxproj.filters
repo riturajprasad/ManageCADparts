@@ -56,4 +56,9 @@
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="CADParts.mp4">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
 </Project>
