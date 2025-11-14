@@ -65,6 +65,10 @@ Flanges : CADparts
 Main()
   vector<CADparts*>
   1. Add CAD parts
+	1. Pipes
+	2. Valves
+	3. Elbows
+	4. Flanges
   2. View CAD parts
   3. Search CAD parts by its Id number
   4. Sort CAD parts by its Diameter
