@@ -50,6 +50,12 @@
     <ClInclude Include="Hdr\Valves.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Hdr\SingleLL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hdr\SingleNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">

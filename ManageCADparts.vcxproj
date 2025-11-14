@@ -136,6 +136,8 @@
     <ClInclude Include="Hdr\Elbows.h" />
     <ClInclude Include="Hdr\Flanges.h" />
     <ClInclude Include="Hdr\Pipes.h" />
+    <ClInclude Include="Hdr\SingleLL.h" />
+    <ClInclude Include="Hdr\SingleNode.h" />
     <ClInclude Include="Hdr\Valves.h" />
   </ItemGroup>
   <ItemGroup>
